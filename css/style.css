@@ -189,18 +189,21 @@ background-blend-mode: multiply;
 	#sobre p{
 		padding: auto;
 	}
-
 	.mobile{
 		display: flex;
 		flex-direction: column;
 	}
+	.mobileform{
+		display: flex;
+		flex-direction: column-reverse;
+    	align-items: baseline;
+	}
 	.dados-contato{
 		align-self: flex-start;
-		margin: 0 auto 0 40px;
 		width: auto;
 	}
 	.form{
-		margin-left: 18px;
+		width: auto;
 	}
 	.gallery-card{
 		height: 161px;
