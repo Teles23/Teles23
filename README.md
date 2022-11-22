@@ -12,10 +12,6 @@
 
 
 
-- #### Meus contatos
-
-<a id="rede" href="https://www.linkedin.com/in/thiago-teles17/" target="_blank"><img src="https://user-images.githubusercontent.com/104280692/185771400 -f33093fa-7e1d-42b9-9ba1-ab6ede8a1741.png" height="50px"></img></a>
-<a id="rede" href="mailto:thiagotelessilva@hotmail.com"><img src="https://user-images.githubusercontent.com/104280692/185771399-491b74c6-e770-4e98-aeac-fe9760731f44. png" height="50px"></img></a>
 
 <!---
 Teles23/Teles23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
