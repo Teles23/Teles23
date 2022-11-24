@@ -1,5 +1,18 @@
+https://teles23.github.io/Teles23/
+    
+
+
+  
+
+
+  
+    
+
+    
+
+
 # 💫 Sobre mim:
-🔭 Atualmente estou realizando projetos utilizando Html, Css e JavaScript, Projeto de final de curso e de bootcamps.<br>👯 Estou procurando colaborar em freelancers, e projetos reais.<br>🤝 Sempre buscando ajuda para começar a inicar projetos em React.<br>⚡ Estou em constante aprendizado, sempre em busca de evoluir profissionalmente e pessoalmente!
+🔭 Atualmente estou realizando projetos utilizando Html, Css e JavaScript, Projeto de final de curso e de bootcamps.<br>👯 Estou procurando colaborar em projetos reais.<br>🤝 Sempre buscando ajuda para começar a inicar projetos em React.<br>⚡ Estou em constante aprendizado, sempre em busca de evoluir profissionalmente e pessoalmente!
 
 
 ## 🌐 Sociais:
