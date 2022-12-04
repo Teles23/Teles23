@@ -29,7 +29,7 @@ section {
 }
 input,
 textarea {
-  width: 100%;
+  width: -webkit-fill-available;
   padding: 10px;
   border-radius: 5px;
 }
@@ -103,6 +103,7 @@ textarea {
   border: 1px solid gray;
   flex-direction: column;
   margin-bottom: 20px;
+  overflow: hidden;
 }
 .gallery-card-btn {
   border: 2px solid black;
@@ -129,7 +130,7 @@ textarea {
   background-blend-mode: multiply;
 }
 #card-1 {
-  background-image: url(../images/img-02-s.jpg);
+  background-image: url(../images/img-02.jpg);
 }
 #card-2 {
   background-image: url(../images/img-01-s.jpg);
