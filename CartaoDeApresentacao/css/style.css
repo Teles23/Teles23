@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap");
+* {
+  font-family: "Montserrat", serif;
+  margin: 0;
+  padding: 0;
+}
+body {
+  max-width: 1440px;
+  background-color: hsl(30, 38%, 92%);
+}
+h1 {
+  font-family: "Fraunces", serif;
+}
+p {
+  font-size: 14px;
+  color: hsl(228, 12%, 48%);
+}
+button img {
+  background: none;
+  vertical-align: text-bottom;
+}
+button {
+  background-color: hsl(158, 36%, 37%);
+  color: hsl(0, 0%, 100%);
+  border-radius: 7px;
+  width: 100%;
+  height: 43px;
+}
+ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+button:hover{
+  background-color:rgb(24, 62, 48);
+  cursor: pointer;
+}
+.content {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.descricao {
+  flex-direction: column;
+  background-color: hsl(0, 0%, 100%);
+  width: 239px;
+  height: 315px;
+  padding: 64px 2.5vw;
+  border-radius: 0 10px 10px 0;
+}
+#preco {
+  color: hsl(158, 36%, 37%);
+}
+#foto {
+  background-image: url(../images/image-product-desktop.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 294px;
+  height: 440.92px;
+  border-radius: 10px 0 0 10px;
+}
+#tachado {
+  margin-left: 1.5vw;
+}
+
+@media screen and (max-width: 600px) {
+  .content {
+    flex-direction: column;
+  }
+  .descricao {
+    width: 294px;
+    height: auto;
+    padding: 2.5vh;
+
+    border-radius: 0 0 10px 10px;
+  }
+  #foto {
+    background-image: url(../images/image-product-mobile.jpg);
+    height: 250px;
+    width: 331px;
+    border-radius: 10px 10px 0 0;
+  }
+  #tachado {
+    margin-left: 4vw;
+  }
+}
