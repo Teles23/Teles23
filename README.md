@@ -14,13 +14,13 @@ https://teles23.github.io/Teles23/
 <div align ='center'>
   <img height="160em" src= "https://github-readme-streak-stats.herokuapp.com/?user=Teles23&theme=nightowl&hide_border=false">
 </div>
-
+<!-- 
 # 📊 Minhas Estatísticas:
 
 <div align='center'>
 <img height = "160em" src ="https://github-readme-stats.vercel.app/api?username=Teles23&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false">
 <img height ="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Teles23&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</div>
+</div> -->
 
 
 ---
