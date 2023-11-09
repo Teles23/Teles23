@@ -1,4 +1,4 @@
-https://teles23.github.io/Teles23/
+https://portfolio-thiagoteles.netlify.app/
     
 
 
